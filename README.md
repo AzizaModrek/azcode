@@ -23,5 +23,5 @@ DenseNet-121 is a variant of the DenseNet architecture, designed to balance mode
 
 
 Results:
-EffcientNet -100%
-Densenet121 -97%
+EffcientNet 100%
+Densenet121 96.45%
